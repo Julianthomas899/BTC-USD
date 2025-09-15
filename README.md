@@ -1,6 +1,6 @@
 # BTC-USD-data-gathering
 
-This repository contains a CSV file with **Bitcoin OHLC hourly data** covering the period from **2015-01-01 to mid-2025**.  
+This repository contains a CSV file with **Bitcoin OHLC hourly data** covering the period from **2015-01-01 to sept-2025**.  
 
 ## Source  
 Data was originally obtained from Kaggle:  
