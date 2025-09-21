@@ -1,6 +1,6 @@
 # BTC-USD-data-gathering
 
-This repository contains a CSV file with **Bitcoin OHLC hourly data** covering the period from **2015-01-01 to sept-2025**.  
+This repository contains a CSV file (btc_1h_cleaned.csv) with **Bitcoin OHLC hourly data** covering the period from **2015-01-01 to 2025-09**.   
 
 ## Source  
 Data was originally obtained from Kaggle:  
@@ -18,5 +18,3 @@ This Kaggle dataset itself was scraped from the **Bitstamp API**, which provides
 - Remove duplicate timestamps
 - Sanity check for outliers
 - Set datetime index and sort chronologically
-
-# Cleaned data is under btc_1h_cleaned.csv
