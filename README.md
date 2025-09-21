@@ -13,7 +13,7 @@ This Kaggle dataset itself was scraped from the **Bitstamp API**, which provides
 - **Fields**: Open, High, Low, Close, Volume, Timestamp  
 - **Granularity**: 1-hour candles  
 
-# A cleaning script data_cleaning.py is included to prepare the data:
+## A cleaning script data_cleaning.py is included to prepare the data:
 Handle missing values
 Remove duplicate timestamps
 Sanity check for outliers
